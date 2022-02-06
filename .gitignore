@@ -2,3 +2,6 @@
 number.png
 # VS code 
 .vscode
+#bin 
+*.exe
+*.exe~
